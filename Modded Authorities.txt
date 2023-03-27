@@ -1,0 +1,7 @@
+Democratic:
+
+Authority Code Name | Authority Loc Name | Mod Name
+===================================================
+
+auth_strict_democratic = auth_dict_democratic
+auth_strict_democratic = auth_strict_democratic
